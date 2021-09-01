@@ -9,3 +9,103 @@ body {
 	float: left;
 	margin-left: 2rem;
 }
+
+#main {
+	padding: 10%;
+	background-color: #f6f8f9;
+	height: 100vh;
+}
+
+.section_with_buttons {
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#button_1 {
+	background-color: #47adf1;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	border: 0em;
+	margin-left: 30px;
+}
+
+#button_2 {
+	background-color: white;
+	color: grey;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+
+.section_with_text {
+	background-color: white;
+	height: 100vw;
+}
+
+.list {
+	list-style: none;
+}
+
+.cross {
+	color: #eb5952;
+}
+
+.check {
+	color: #64c0a9;
+}
+
+.circle_light_blue {
+	background-color: #47adf1;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 0em;
+	margin-left: 5px;
+}
+
+#circle_dark_violet {
+	background-color: #9c72e4;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 0em;
+	margin-left: 5px;
+}
+
+#circle_green {
+	background-color: #64c0a9;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 0em;
+	margin-left: 5px;
+}
+
+#circle_orange {
+	background-color: #f29e33;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 0em;
+	margin-left: 5px;
+}
+
+#circle_light_purple {
+	background-color: #d863a1;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 0em;
+	margin-left: 5px;
+}
+
+#circle_light_green {
+	background-color: #b0c926;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 0em;
+	margin-left: 5px;
+}
