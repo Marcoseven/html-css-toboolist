@@ -18,14 +18,14 @@ body {
 
 .section_with_buttons {
 	background-color: white;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 #button_1 {
 	background-color: #47adf1;
 	color: white;
-	padding: 5px;
+	padding: 10px;
 	border-radius: 5px;
 	border: 0em;
 	margin-left: 30px;
@@ -37,6 +37,7 @@ body {
 	padding: 5px;
 	border-radius: 5px;
 	border: 1px solid black;
+	padding: 10px;
 }
 
 .section_with_text {
@@ -48,12 +49,26 @@ body {
 	list-style: none;
 }
 
-.cross {
-	color: #eb5952;
+.circle_green {
+	background-color: white;
+	color: #64c0a9;
+	padding: 3px;
+	border-radius: 100%;
+	border: 0em;
+	margin-left: 5px;
+	border-color: #64c0a9;
+	border: 1px solid #64c0a9;
 }
 
-.check {
-	color: #64c0a9;
+.circle_red {
+	background-color: white;
+	color: #eb5a54;
+	padding: 3px;
+	border-radius: 100%;
+	border: 0em;
+	margin-left: 5px;
+	border-color: #eb5a54;
+	border: 1px solid #eb5a54;
 }
 
 .circle_light_blue {
