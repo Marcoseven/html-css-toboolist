@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+	box-sizing: border-box;
+	font-family: arial, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#img {
+	display: inline;
+	float: left;
+	margin-left: 2rem;
+}
